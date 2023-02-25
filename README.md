@@ -3,7 +3,7 @@
 Official source code for paper 《Int-GNN: a User Intention Aware Graph Neural Network for Session-Based Recommendation》accepted by ICASSP 2023
 
 ### Overall Architecture of IntGNN
-![image](https://github.com/xuguangning1218/IntGNN_ICASSP2023/figure/model.jpg)
+![image](https://github.com/xuguangning1218/IntGNN_ICASSP2023/blob/master/figure/model.jpg)
 
 ### Environment Setting
 ```
