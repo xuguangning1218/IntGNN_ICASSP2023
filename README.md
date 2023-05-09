@@ -41,14 +41,13 @@ python train_intgnn.py
 ### Citation
 If you find this code or idea useful, please cite our work:
 ```bib
-@inproceedings{xu2023Int,
-  title={Int-GNN: a User Intention Aware Graph Neural Network for Session-Based Recommendation},
-  author = {Guangning Xu and Jinyang Yang and Jinjin Guo abd Zhichao Huang and Bowen Zhang},
-  journal = {2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),
-  volume = {},
-  pages = {},
-  year = {2023},
-  issn = {},
-  doi = {},
-}
+@INPROCEEDINGS{xu2023Int,
+  author={Xu, Guangning and Yang, Jinyang and Guo, Jinjin and Huang, Zhichao and Zhang, Bowen},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Int-GNN: A User Intention Aware Graph Neural Network for Session-Based Recommendation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10097031}}
 ```
